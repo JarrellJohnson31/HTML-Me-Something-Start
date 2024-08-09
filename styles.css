@@ -6,12 +6,12 @@ body {
 }
 
 #mainHeading {
-    color:red;
+    color: red;
     text-align: center;
 }
 
 .funParagraph {
-    color:green;
+    color: green;
 }
 
 h2 {
@@ -21,7 +21,10 @@ h2 {
 .exampleImages {
     width: 600px;
     height: 600px;
-    padding: 10px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
 }
 
 #mainPicture {
